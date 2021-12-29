@@ -1,0 +1,7 @@
+Doc de Testing: https://docs.google.com/spreadsheets/d/1LIg8WgEcycm9nCoeXYpxQQqiZujuF4eaSlauIJQP8r8/edit#gid=0
+
+1) Habilitar la API en google Console
+2) Crear una credencial (archivo json)
+3) Cambiar el nombre a "credentials.json"
+4) Ejecutar el quickstart para generar el TOKEN (depende del SCOPE)
+5) Verificar GOOGLE_SHEET_ID en la url del documento
