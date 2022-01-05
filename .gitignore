@@ -1,1 +1,10 @@
 env/
+model_example/
+recommendation_system/
+
+google_sheets/token.json
+google_sheets/token_update.json
+google_sheets/credentials.json
+
+google_calendar/credentials.json
+google_calendar/token.json
